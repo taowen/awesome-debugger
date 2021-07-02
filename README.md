@@ -43,7 +43,10 @@ record & replay or time travel debugging
 * https://azmr.itch.io/whitebox
 * https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/time-travel-debugging-overview
 * https://totalview.io/products/totalview
+* http://www.simulics.com/index_en.php
 
 # history
 
-* http://jakob.engbloms.se/archives/1554
+* Reverse History Part One http://jakob.engbloms.se/archives/1547
+* Reverse History Part Two – Research http://jakob.engbloms.se/archives/1554
+* Reverse History Part Three – Products http://jakob.engbloms.se/archives/1564
