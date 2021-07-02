@@ -1,6 +1,5 @@
 # python
 
-* https://kolo.app/
 * http://pythontutor.com/
 * https://pytrace.com/
 * https://viztracer.readthedocs.io/en/latest/
@@ -13,6 +12,11 @@
 # golang
 
 * https://github.com/didi/sharingan
+
+# framework
+
+* [Django: kola](https://kolo.app/)
+* [Redux: DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
 # c / libc
 
