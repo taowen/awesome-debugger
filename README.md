@@ -25,3 +25,4 @@ record & replay or time travel debugging
 * https://rr-project.org/
 * https://pernos.co/
 * https://github.com/didi/rdebug
+* https://azmr.itch.io/whitebox
