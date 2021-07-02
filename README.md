@@ -15,6 +15,7 @@ record & replay or time travel debugging
 
 * https://undo.io/solutions/products/java/
 * https://arthas.aliyun.com/doc/tt
+* https://www.cs.cmu.edu/~NatProg/whyline-java.html
 
 # golang
 
