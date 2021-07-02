@@ -9,3 +9,13 @@
 
 * https://undo.io/solutions/products/java/
 * https://arthas.aliyun.com/doc/tt
+
+# golang
+
+* https://github.com/didi/sharingan
+
+# c / libc
+
+* https://rr-project.org/
+* https://pernos.co/
+* https://github.com/didi/rdebug
