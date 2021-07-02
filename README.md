@@ -2,7 +2,7 @@
 
 # framework
 
-* [Django: kola](https://kolo.app/)
+* [Django: kolo](https://kolo.app/)
 * [Redux: DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
  
 # python
