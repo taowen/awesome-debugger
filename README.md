@@ -22,9 +22,10 @@ record & replay or time travel debugging
 
 * https://github.com/didi/sharingan
 
-# javascript
+# javascript & browser
 
 * https://wallabyjs.com/docs/intro/time-travel-debugger.html
+* https://logrocket.com/
 
 # c / libc
 
