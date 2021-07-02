@@ -12,12 +12,18 @@ record & replay or time travel debugging
 * http://pythontutor.com/
 * https://pytrace.com/
 * https://viztracer.readthedocs.io/en/latest/
+* https://revdebug.gitbook.io/revdebug/supported-langauges/python
 
 # java
 
 * https://undo.io/solutions/products/java/
 * https://arthas.aliyun.com/doc/tt
 * https://www.cs.cmu.edu/~NatProg/whyline-java.html
+* https://revdebug.gitbook.io/revdebug/supported-langauges/java
+
+# c#
+
+* https://revdebug.gitbook.io/revdebug/supported-langauges/c
 
 # golang
 
@@ -27,6 +33,7 @@ record & replay or time travel debugging
 
 * https://wallabyjs.com/docs/intro/time-travel-debugger.html
 * https://logrocket.com/
+* https://revdebug.gitbook.io/revdebug/supported-langauges/javascript
 
 # c / libc
 
