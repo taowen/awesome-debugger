@@ -54,3 +54,7 @@ record & replay or time travel debugging
 * If I Only Changed the Software, why is the Phone on Fire http://jakob.engbloms.se/archives/1917
 * Debugging – the 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems https://jakob.engbloms.se/archives/1923
 * My Hairiest Bug War Stories https://www.researchgate.net/publication/27297655_My_Hairiest_Bug_War_Stories
+* Scientific Debugging
+  * https://medium.com/machine-words/scientific-debugging-part-1-8890b73b6c4c
+  * https://medium.com/machine-words/scientific-debugging-part-2-difficult-observations-bba84772d3d1
+  * https://medium.com/machine-words/scientific-debugging-part-3-space-and-time-75ae28a7b9d7
