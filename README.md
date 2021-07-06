@@ -45,8 +45,12 @@ record & replay or time travel debugging
 * https://totalview.io/products/totalview
 * http://www.simulics.com/index_en.php
 
-# history
+# article
 
 * Reverse History Part One http://jakob.engbloms.se/archives/1547
 * Reverse History Part Two – Research http://jakob.engbloms.se/archives/1554
 * Reverse History Part Three – Products http://jakob.engbloms.se/archives/1564
+* Studying the Advancement in Debugging Practice https://jakob.engbloms.se/archives/3077
+* If I Only Changed the Software, why is the Phone on Fire http://jakob.engbloms.se/archives/1917
+* Debugging – the 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems https://jakob.engbloms.se/archives/1923
+* My Hairiest Bug War Stories https://www.researchgate.net/publication/27297655_My_Hairiest_Bug_War_Stories
