@@ -46,6 +46,10 @@ record & replay or time travel debugging
 * https://totalview.io/products/totalview
 * http://www.simulics.com/index_en.php
 
+# virtual machine
+
+* https://wiki.qemu.org/Features/record-replay
+
 # article
 
 * Reverse History Part One http://jakob.engbloms.se/archives/1547
