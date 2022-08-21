@@ -51,6 +51,14 @@ record & replay or time travel debugging
 
 * https://wiki.qemu.org/Features/record-replay
 
+# GPU
+
+* PIX: https://devblogs.microsoft.com/pix/download/
+* nsight: https://developer.nvidia.com/nsight-graphics
+* spector.js: https://spector.babylonjs.com/
+* webgl-recorder: https://github.com/evanw/webgl-recorder
+* safari: https://webkit.org/blog/8452/canvas-debugging/
+
 # article
 
 * Reverse History Part One http://jakob.engbloms.se/archives/1547
