@@ -38,6 +38,7 @@ record & replay or time travel debugging
 * https://revdebug.gitbook.io/revdebug/supported-langauges/javascript
 * https://replay.io/
 * https://developer.chrome.com/docs/devtools/recorder/
+*  https://www.highlight.io/
 
 # c / libc
 
