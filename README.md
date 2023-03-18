@@ -53,6 +53,7 @@ record & replay or time travel debugging
 # virtual machine
 
 * https://wiki.qemu.org/Features/record-replay
+* https://github.com/panda-re/panda/blob/dev/panda/docs/time-travel.md
 
 # GPU
 
