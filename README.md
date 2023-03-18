@@ -49,6 +49,7 @@ record & replay or time travel debugging
 * https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/time-travel-debugging-overview
 * https://totalview.io/products/totalview
 * http://www.simulics.com/index_en.php
+* https://lldb.llvm.org/use/intel_pt.html
 
 # virtual machine
 
