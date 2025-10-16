@@ -1,5 +1,10 @@
 record & replay or time travel debugging
 
+# ai
+
+* [https://github.com/traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) TraceRoot helps engineers debug production issues 10× faster using AI-powered analysis of traces, logs, and code context.
+* [https://github.com/replayio/nut.new](https://github.com/replayio/nut.new) When you ask Nut to fix a bug, it creates a Replay.io recording of your app and whatever you did to produce the bug. The recording captures all the runtime behavior of your app, which is analyzed to explain the bug's root cause. This explanation is given to the AI developer so it has context to write a good fix.
+  
 # framework
 
 * [Django: kolo](https://kolo.app/)
