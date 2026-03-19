@@ -18,6 +18,7 @@ record & replay or time travel debugging
 * https://pytrace.com/
 * https://viztracer.readthedocs.io/en/latest/
 * https://revdebug.gitbook.io/revdebug/supported-langauges/python
+* https://pypi.org/project/oracletrace/
 
 # java
 
